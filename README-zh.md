@@ -26,7 +26,7 @@ macOS 的 DPI 机制和 Windows 下不一样，比如 1080p 的屏幕在 Windows
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/oscd/mac-hidpi/master/hidpi-zh.sh)"
 ```
 
-![运行](./img/run-zh.jpg)
+![运行](./img/run-zh1.jpg)
 
 ## 恢复
 
