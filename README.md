@@ -24,7 +24,7 @@ Run this script in Terminal
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/oscd/mac-hidpi/master/hidpi.sh)"
 ```
 
-![RUN](./img/run.jpg)
+![RUN](./img/run1.jpg)
 
 ## Recovery
 
